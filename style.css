@@ -14,10 +14,10 @@
     color: white;
 
 }
-#donate-now-button{
+.donate-now-button{
     text-decoration: none;
     background-color: #FF5959;
-    padding: 20px;
+    padding: 20px 10px;
     color: white;
     border-radius: 8px;  
 }
@@ -27,4 +27,31 @@ body{
 #heder-p{
     padding-bottom: 30px;
     color: white;
+}
+.donate-today{
+    text-align: center;
+    font-size:24px;
+    padding-top: 30px;
+}
+#boxes{
+    align-items: center;
+    display: flex;
+}
+h5{
+    padding: 30px 15px;
+    width: 80px;
+    height:30px;
+    margin: auto;
+
+}
+#border-design{
+    border-radius: 2px;
+    border: 2px solid #FF5959;
+    background-color: #ff595967;
+}
+#donate-ammount{
+    margin-top: 60px;
+    width: 50%;
+    border: none;
+    border-bottom: 2px solid #FF5959;
 }
