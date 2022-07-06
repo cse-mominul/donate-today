@@ -1,0 +1,30 @@
+.donate-now{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    background-image: url(images/donation-1.jpg);
+    width: 100%;
+    height: 700px;
+
+
+
+}
+#Main-Title{
+    padding-top: 250px;
+    font-size: 60px;
+    color: white;
+
+}
+#donate-now-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;  
+}
+body{
+    margin: 0%;
+}
+#heder-p{
+    padding-bottom: 30px;
+    color: white;
+}
